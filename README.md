@@ -9,13 +9,13 @@ This project is a Conversational Question-Answering (QA) system built using Flas
 
 ## Technologies Used
 
-Flask: Backend web framework.
-LangChain: Language chain and retrieval model for context-aware Q&A.
-SentenceTransformerEmbeddings: Embeddings for document retrieval.
-Chroma: Vectorstore for storing document embeddings.
-Bootstrap: For a simple and responsive frontend design.
-OpenAI API: Language model used to generate responses.
-JavaScript: To handle frontend interactions.
+1) Flask: Backend web framework.
+2) LangChain: Language chain and retrieval model for context-aware Q&A.
+3) SentenceTransformerEmbeddings: Embeddings for document retrieval.
+4) Chroma: Vectorstore for storing document embeddings.
+5) Bootstrap: For a simple and responsive frontend design.
+6) OpenAI API: Language model used to generate responses.
+7) JavaScript: To handle frontend interactions.
 
 ## Usage
 
